@@ -114,14 +114,3 @@ Create your feature branch (git checkout -b feature/AmazingFeature)
 Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
-
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-👏 Acknowledgments
-
-Ultralytics YOLOv8 - YOLO implementation
-OpenCV - Computer vision library
-cvzone - Computer vision utility functions
-
-📧 Contact
- azizsaidi55sa@gmail.com
